@@ -1,0 +1,17 @@
+Matricule,Nom,Prénom,Manager,Équipe,Intitulé de poste,Type,Date,Séniorité,TJM,Commentaire
+EMP080,Rachdi,Inès,Mohamed Diallo,Delivery Digital,UX/UI Designer,Entrée,15/11/2026,6.1,6200,Recrutement acté
+EMP081,Berrada,Thomas,Mohamed Diallo,Delivery Digital,UX/UI Designer,Entrée,19/11/2026,6.6,5800,Recrutement acté
+EMP016,Martin,Nadia,Mohamed Diallo,Delivery Digital,UX/UI Designer,Sortie,22/11/2026,0.5,,Fin de période d'essai
+EMP022,Cherkaoui,Omar,Mohamed Diallo,Delivery Digital,Développeur,Sortie,19/11/2026,0.5,,Fin de période d'essai
+EMP082,Tazi,Kenza,Sara Alaoui,BI & Reporting,Consultant BI,Entrée,08/11/2026,8.5,5900,Recrutement acté
+EMP083,Sefrioui,Inès,Sara Alaoui,Data & IA,Data Scientist,Entrée,03/11/2026,9.6,6400,Recrutement acté
+EMP041,Ait Said,Inès,Sara Alaoui,Data & IA,ML Engineer,Sortie,21/12/2026,0.7,,Fin de mission
+EMP042,Mansouri,Thomas,Sara Alaoui,BI & Reporting,Architecte Data,Sortie,27/12/2026,1.8,,Fin de mission
+EMP084,Tazi,Inès,Karim Bennani,Delivery SI,Business Analyst,Entrée,12/11/2026,7.9,5600,Recrutement acté
+EMP085,Amrani,Hamza,Karim Bennani,TMA,Développeur Java,Entrée,02/11/2026,9.6,6100,Recrutement acté
+EMP050,Haddad,Sami,Karim Bennani,Delivery SI,Tech Lead,Sortie,22/11/2026,0.5,,Fin de période d'essai
+EMP049,Martin,Mehdi,Karim Bennani,TMA,Analyste support,Sortie,29/11/2026,0.7,,Fin de mission
+EMP086,Haddad,Yasmine,Nadia El Fassi,Cloud & Infra,Administrateur Systèmes,Entrée,15/11/2026,9.4,6300,Recrutement acté
+EMP087,Ziani,Ayoub,Nadia El Fassi,Cloud & Infra,Ingénieur Cloud,Entrée,16/11/2026,6.6,5900,Recrutement acté
+EMP068,Ouazzani,Kenza,Nadia El Fassi,Cloud & Infra,Architecte Cloud,Sortie,15/12/2026,0.5,,Fin de période d'essai
+EMP074,Nguyen,Anas,Nadia El Fassi,Cloud & Infra,Architecte Cloud,Sortie,23/12/2026,0.8,,Mobilité interne

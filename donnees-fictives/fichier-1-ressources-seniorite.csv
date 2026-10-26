@@ -1,0 +1,80 @@
+Matricule,Nom,Prénom,Manager,Équipe,Intitulé de poste,Date d'entrée,Séniorité
+EMP001,Ziani,Salma,Mohamed Diallo,Delivery Digital,Tech Lead,16/10/2025,1.5
+EMP002,Perez,Kenza,Mohamed Diallo,Delivery Digital,Data Engineer,22/11/2025,3
+EMP003,Jabri,Ghita,Mohamed Diallo,Delivery Digital,Développeur,09/03/2020,9.8
+EMP004,Belkacem,Ghita,Mohamed Diallo,Delivery Digital,Tech Lead,20/03/2025,1.6
+EMP005,Durand,Hiba,Mohamed Diallo,Delivery Digital,Data Analyst,31/10/2025,11.2
+EMP006,Rachdi,Nabil,Mohamed Diallo,Delivery Digital,Product Owner,03/07/2023,3.7
+EMP007,Kettani,Ilyas,Mohamed Diallo,Delivery Digital,Business Analyst,15/09/2020,10.3
+EMP008,Kettani,Hugo,Mohamed Diallo,Delivery Digital,Consultante IT,06/01/2026,0.8
+EMP009,Squalli,Leila,Mohamed Diallo,Delivery Digital,Tech Lead,22/03/2021,7.5
+EMP010,Tazi,Leila,Mohamed Diallo,Delivery Digital,Tech Lead,15/03/2023,4.1
+EMP011,Durand,Clara,Mohamed Diallo,Delivery Digital,Data Analyst,13/09/2024,2.5
+EMP012,Cherkaoui,Ilyas,Mohamed Diallo,Delivery Digital,Data Analyst,05/11/2024,3.6
+EMP013,El Idrissi,Kenza,Mohamed Diallo,Delivery Digital,Data Analyst,20/03/2026,0.6
+EMP014,Benkirane,Salma,Mohamed Diallo,Delivery Digital,Consultante IT,03/12/2023,6.1
+EMP015,Rami,Hugo,Mohamed Diallo,Delivery Digital,Data Analyst,01/07/2025,2.6
+EMP016,Martin,Nadia,Mohamed Diallo,Delivery Digital,UX/UI Designer,13/05/2026,0.5
+EMP017,Benkirane,Sami,Mohamed Diallo,Delivery Digital,Développeur,03/10/2021,7.6
+EMP018,Lahlou,Hugo,Mohamed Diallo,Delivery Digital,Product Owner,27/12/2025,3.5
+EMP019,Alami,Clara,Mohamed Diallo,Delivery Digital,Data Analyst,22/03/2022,11
+EMP020,Cherkaoui,Omar,Mohamed Diallo,Delivery Digital,Développeur,04/10/2022,6
+EMP021,Benjelloun,Youssef,Mohamed Diallo,Delivery Digital,Business Analyst,22/01/2017,10.6
+EMP022,Cherkaoui,Omar,Mohamed Diallo,Delivery Digital,Développeur,26/04/2026,0.5
+EMP023,El Idrissi,Leila,Mohamed Diallo,Delivery Digital,DevOps Engineer,13/03/2025,5.2
+EMP024,Lahlou,Thomas,Mohamed Diallo,Delivery Digital,Tech Lead,14/03/2023,4.2
+EMP025,Zahraoui,Nabil,Sara Alaoui,Data & IA,ML Engineer,01/12/2019,6.9
+EMP026,Laroui,Omar,Sara Alaoui,BI & Reporting,Architecte Data,17/03/2020,7.7
+EMP027,Skalli,Inès,Sara Alaoui,Data & IA,Data Engineer,30/01/2024,10.9
+EMP028,Cherkaoui,Hugo,Sara Alaoui,BI & Reporting,Data Analyst,23/10/2024,2.9
+EMP029,Rachdi,Salma,Sara Alaoui,Data & IA,ML Engineer,14/05/2023,3.6
+EMP030,Nguyen,Rania,Sara Alaoui,BI & Reporting,Architecte Data,19/12/2024,9.1
+EMP031,Ouazzani,Meryem,Sara Alaoui,Data & IA,Data Scientist,14/02/2024,6.5
+EMP032,Durand,Inès,Sara Alaoui,BI & Reporting,Consultant BI,02/12/2023,6.7
+EMP033,Ait Said,Thomas,Sara Alaoui,Data & IA,Data Engineer,10/04/2019,9
+EMP034,Cherkaoui,Zineb,Sara Alaoui,BI & Reporting,Architecte Data,14/02/2023,3.8
+EMP035,Kettani,Sofia,Sara Alaoui,Data & IA,Data Engineer,27/05/2024,10
+EMP036,Chraibi,Hiba,Sara Alaoui,BI & Reporting,Data Analyst,23/05/2022,5.8
+EMP037,Ouazzani,Meryem,Sara Alaoui,Data & IA,Data Engineer,02/10/2024,3.2
+EMP038,Squalli,Ayoub,Sara Alaoui,BI & Reporting,Data Analyst,07/08/2018,8.4
+EMP039,Amrani,Salma,Sara Alaoui,Data & IA,Data Analyst,28/05/2026,10.5
+EMP040,El Idrissi,Inès,Sara Alaoui,BI & Reporting,Architecte Data,28/02/2026,8.4
+EMP041,Ait Said,Inès,Sara Alaoui,Data & IA,ML Engineer,12/02/2026,0.7
+EMP042,Mansouri,Thomas,Sara Alaoui,BI & Reporting,Architecte Data,02/12/2025,1.8
+EMP043,Rami,Salma,Sara Alaoui,Data & IA,ML Engineer,16/11/2024,10.8
+EMP044,Karim,Rania,Karim Bennani,Delivery SI,Tech Lead,25/10/2021,5
+EMP045,Naciri,Karim,Karim Bennani,TMA,Développeur Java,19/09/2023,3.1
+EMP046,Haddad,Reda,Karim Bennani,Delivery SI,Tech Lead,21/06/2025,3
+EMP047,Perez,Meryem,Karim Bennani,TMA,Analyste support,20/03/2026,0.6
+EMP048,Naciri,Youssef,Karim Bennani,Delivery SI,Business Analyst,24/06/2022,9
+EMP049,Martin,Mehdi,Karim Bennani,TMA,Analyste support,12/02/2026,0.7
+EMP050,Haddad,Sami,Karim Bennani,Delivery SI,Tech Lead,26/04/2026,0.5
+EMP051,Sefrioui,Clara,Karim Bennani,TMA,Développeur Java,29/08/2025,1.5
+EMP052,Kettani,Clara,Karim Bennani,Delivery SI,Tech Lead,28/11/2020,7
+EMP053,Ouazzani,Ghita,Karim Bennani,TMA,Développeur Java,20/10/2024,2.8
+EMP054,Jabri,Salma,Karim Bennani,Delivery SI,Chef de projet,09/05/2025,11.4
+EMP055,Martin,Thomas,Karim Bennani,TMA,Développeur Java,19/04/2026,4
+EMP056,Ziani,Thomas,Karim Bennani,Delivery SI,Développeur Full-stack,30/04/2022,5.7
+EMP057,Lahlou,Youssef,Karim Bennani,TMA,Analyste support,12/02/2026,0.7
+EMP058,Perez,Adam,Karim Bennani,Delivery SI,Tech Lead,25/08/2024,4.2
+EMP059,Ait Said,Rania,Karim Bennani,TMA,Testeur QA,20/03/2026,0.6
+EMP060,Haddad,Anas,Karim Bennani,Delivery SI,Tech Lead,24/10/2025,3
+EMP061,El Idrissi,Ayoub,Karim Bennani,TMA,Testeur QA,24/02/2026,0.8
+EMP062,Moreau,Yassine,Karim Bennani,Delivery SI,Développeur Full-stack,04/04/2024,3.9
+EMP063,Garcia,Ilyas,Karim Bennani,TMA,Développeur Java,21/06/2019,8.1
+EMP064,Filali,Hamza,Karim Bennani,Delivery SI,Développeur Full-stack,19/12/2024,2.9
+EMP065,Tazi,Hiba,Nadia El Fassi,Cloud & Infra,Administrateur Systèmes,09/08/2019,9.7
+EMP066,Rachdi,Amine,Nadia El Fassi,Cloud & Infra,Administrateur Systèmes,28/01/2026,5.5
+EMP067,Bennis,Ayoub,Nadia El Fassi,Cloud & Infra,Ingénieur Cloud,03/01/2023,5.8
+EMP068,Ouazzani,Kenza,Nadia El Fassi,Cloud & Infra,Architecte Cloud,26/04/2026,0.5
+EMP069,Lahlou,Ghita,Nadia El Fassi,Cloud & Infra,DevOps Engineer,13/05/2026,0.9
+EMP070,Zahraoui,Anas,Nadia El Fassi,Cloud & Infra,Architecte Cloud,30/08/2025,1.3
+EMP071,Zahraoui,Omar,Nadia El Fassi,Cloud & Infra,DevOps Engineer,06/11/2021,10.7
+EMP072,Amrani,Anas,Nadia El Fassi,Cloud & Infra,DevOps Engineer,26/12/2024,2.3
+EMP073,Nguyen,Anas,Nadia El Fassi,Cloud & Infra,Architecte Cloud,10/10/2022,6.8
+EMP074,Nguyen,Anas,Nadia El Fassi,Cloud & Infra,Architecte Cloud,06/01/2026,0.8
+EMP075,Perez,Hiba,Nadia El Fassi,Cloud & Infra,Administrateur Systèmes,12/11/2025,1
+EMP076,Alami,Bilal,Nadia El Fassi,Cloud & Infra,Ingénieur Cloud,10/12/2020,7.1
+EMP077,Benjelloun,Nabil,Nadia El Fassi,Cloud & Infra,DevOps Engineer,16/02/2020,6.7
+EMP078,Berrada,Clara,Nadia El Fassi,Cloud & Infra,Ingénieur Cloud,17/11/2025,2.1
+EMP079,Nguyen,Nadia,Nadia El Fassi,Cloud & Infra,Ingénieur Cloud,24/03/2024,2.6

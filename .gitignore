@@ -1,0 +1,12 @@
+# Données réelles DRH / DAF : ne jamais les versionner
+*.xlsx
+*.xls
+*.csv
+donnees/
+# … sauf les données fictives de démonstration
+!donnees-fictives/*.csv
+
+# Fichiers de travail de la session de développement (scripts de modification, sauvegardes)
+.claude/p/
+.claude/audit.js
+.claude/serve.js
